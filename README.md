@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/AmanMishra85/mern-notes-app.git
    cd mern-notes-app
 
-**Backend:** 
-    cd backend
+**Backend:** <br> 
+    cd backend<br>
    npm install
 
   Create a .env file in the backend directory with the following variables:
@@ -50,9 +50,9 @@ PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
-**FrontEnd:**
-    cd ../frontend
-   npm install
+**FrontEnd:**<br>
+    cd ../frontend<br>
+   npm install<br>
    npm start
 
 
