@@ -19,7 +19,7 @@ Check out the live demo: [MERN Notes Application](https://savenotes-two.vercel.a
 ### Frontend
 
 - **React.js:** Frontend framework for building user interfaces.
-- **Redux:** State management library for predictable state containers.
+- **Context:** State management for predictable state containers.
 - **React Router:** Declarative routing for React applications.
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 
@@ -51,8 +51,10 @@ MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 **FrontEnd:**
-  cd ../frontend
-  npm start
+    cd ../frontend
+   npm install
+   npm start
+
 
 Then Start you development...
 
