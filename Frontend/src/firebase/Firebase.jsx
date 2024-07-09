@@ -4,13 +4,7 @@ import {getAuth,GoogleAuthProvider,signInWithPopup} from 'firebase/auth';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAjeBnGX1JPFsWTWIcNukpHprYiHwSd4fA",
-  authDomain: "authen-1182e.firebaseapp.com",
-  projectId: "authen-1182e",
-  storageBucket: "authen-1182e.appspot.com",
-  messagingSenderId: "174183611149",
-  appId: "1:174183611149:web:5a2f8aaecd8a97be314e44",
-  measurementId: "G-LYGG5NBPG2"
+  // your firebase configuration
 };
 
 
