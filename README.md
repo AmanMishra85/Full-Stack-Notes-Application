@@ -4,6 +4,12 @@
 
 The MERN Notes Application is a full-stack note-taking web application built using MongoDB, Express.js, React, and Node.js (MERN stack). This application allows users to create, read, update, and delete notes, with user authentication and authorization handled securely using JWT (JSON Web Tokens).
 
+
+<video width="600" controls>
+  <source src="https://github.com/AmanMishra85/Full-Stack-Notes-Application/blob/main/Frontend/my_notes.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **User Authentication:** Secure user registration and login using JWT tokens.
