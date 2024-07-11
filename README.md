@@ -6,7 +6,7 @@ The MERN Notes Application is a full-stack note-taking web application built usi
 
 
 <video width="600" controls>
-  <source src="https://github.com/AmanMishra85/Full-Stack-Notes-Application/blob/main/Frontend/my_notes.mp4" type="video/mp4">
+  <source src="https://raw.github.com/AmanMishra85/Full-Stack-Notes-Application/blob/main/Frontend/my_notes.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
